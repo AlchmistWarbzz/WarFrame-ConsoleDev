@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/BP/DELETEME1.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Characters/DELETEME.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/BP/DELETEME.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Levels/DELETEME.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Materials/DELETEME.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/UI/DELETEME.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/DELETEME.uasset"
+			]
+		}
+	]
+}
