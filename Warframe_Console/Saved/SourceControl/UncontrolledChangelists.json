@@ -11,7 +11,6 @@
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Materials/DELETEME.uasset",
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/UI/DELETEME.uasset",
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/DELETEME.uasset",
-				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Levels/Pannel1.umap",
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Floor.uasset",
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Pillar.uasset",
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Wall_B_LV1.uasset",
@@ -41,6 +40,18 @@
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_WinT_S.uasset",
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Characters/Player/DELETEME.uasset",
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Characters/Enemy/DELETEME.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Characters/Enemy/Moa/SK_Enemy.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Door.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Doorway.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Pillar_Thick.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Pillar_Thin.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Railing.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Stairs.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Wall_L.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Wall_S.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/ModularKit/SM_Mod_Window.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Assets/Props/SM_W.uasset",
+				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/Levels/Pannel1.umap",
 				"E:/Repo/UE5/WarFrame-ConsoleDev/Warframe_Console/Content/BP/DELETEME1.uasset"
 			]
 		}
